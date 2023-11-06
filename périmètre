@@ -1,0 +1,10 @@
+Algorithe calcul_perimetre_rectangle
+var L,l,P : réels
+Début
+  écrire ("entrer la longueur L")
+  lire (L)
+  écrire ("entrer la largeur l")
+  lire (l)
+   P == (L+l)*2
+  écrire ("le périmètre est : p")
+Fin  
